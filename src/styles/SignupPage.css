@@ -1,0 +1,22 @@
+.signup-page {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  .signup-input {
+    margin-bottom: 10px;
+  }
+  
+  .signup-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .signup-button:hover {
+    background-color: darkred;
+  }
+  
